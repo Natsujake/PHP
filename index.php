@@ -1,5 +1,5 @@
 <?php
 
 echo "<strong>Programando pela primeira vez</strong> :)"
-echo "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA BLZ"
+echo "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA BLZ. ola mundo"
 ?>
